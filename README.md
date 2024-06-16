@@ -1,5 +1,2 @@
-Here is a Google Doc link that takes you to our draft of the written report 
-
-https://docs.google.com/document/d/1q6d-3zlzsai0GGQndBCkZ8McCVx0mHC-TgwwzGMun08/edit?usp=sharing
-
-The final submission of our report will be in Latex
+Here is a link to the model with the best accuracy
+https://drive.google.com/file/d/1_lrLXTClM_Lg5lS5M0kKRgNex29lXfeS/view?usp=drive_link
